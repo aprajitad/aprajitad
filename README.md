@@ -33,7 +33,7 @@ I build end-to-end analytics projects — from cleaning messy data to shipping a
 | Project | What it does | Stack |
 |---|---|---|
 | [🛍️ D2C Customer Cohort & Retention Analysis](https://github.com/aprajitad/D2C-Cohort-Retention-Analysis) | Cohort & retention modelling for Indian D2C brands — retention heatmaps, LTV by cohort, channel-risk analysis | Python, Pandas, Power BI |
-| [🛒 Blinkit Sales & Delivery Dashboard](https://github.com/aprajitad/Blinkit-Dashboard) | Interactive Power BI dashboard analyzing 8,500+ sales & delivery records — revenue trends, order performance, category insights | Power BI, DAX |
+| [🛒 Blinkit Sales & Delivery Dashboard](https://github.com/aprajitad/Blinkit-Sales-Delivery-Analytics) | Interactive Power BI dashboard analyzing 8,500+ sales & delivery records — revenue trends, order performance, category insights | Power BI, DAX |
 | [📉 Customer Analytics & Churn Prediction](https://github.com/aprajitad/Customer-Analytics-Churn-Prediction-Project) | End-to-end pipeline analyzing customer behavior, support efficiency, and churn drivers with an ML classification model | Python, SQL, Scikit-learn |
 | [📈 Retail Sales Intelligence & Forecasting](https://github.com/aprajitad/Retail-Sales-Intelligence-Forecasting-System) | Full retail analytics pipeline with AI-based revenue forecasting (Prophet) and a 3-page Power BI dashboard | SQL, Python (Prophet), Power BI |
 | [🔍 UPI Fraud & Healthcare Data Analysis](https://github.com/aprajitad/UPI-Fraud-Healthcare-Data-Analysis) | Detects and visualizes fraudulent UPI transactions in the healthcare sector | Python, SQL, Power BI |
