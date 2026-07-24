@@ -62,9 +62,3 @@ I build end-to-end analytics projects — from cleaning messy data to shipping a
 | [🚖 OLA Ride Booking Analysis](https://github.com/aprajitad/OLA-Data-Analyst-Project-Power-BI-And-SQL) | SQL + Power BI analysis of OLA ride-booking data — revenue, cancellations, driver & customer performance | SQL, Power BI |
 
 ---
-
-## 📈 GitHub Stats
-
-![Aprajita's GitHub stats](https://github-readme-stats.vercel.app/api?username=aprajitad&show_icons=true&theme=default&hide_border=true)
-
-![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=aprajitad&layout=compact&hide_border=true)
