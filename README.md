@@ -2,7 +2,6 @@
 **Data Analyst | Business Analyst | SQL · Python · Power BI · Excel**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/dixitaprajita/)
-[![Email](https://img.shields.io/badge/Email-dixitaprajita42@gmail.com-red?style=flat&logo=gmail&logoColor=white)](mailto:dixitaprajita42@gmail.com)
 
 ---
 
