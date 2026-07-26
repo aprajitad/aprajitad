@@ -12,11 +12,8 @@ to shipping a dashboard someone can actually make a decision from.
 My work moves through **SQL → Python → Power BI**, and I care 
 more about the "so what" than the chart itself.
 
-- 📊 Open to **Data Analyst, Business Analyst, BI Analyst, 
-  and Product Analyst** roles across India — remote or on-site
 - 🛠 Full-stack analytics: data cleaning, EDA, SQL analysis, 
   ML modelling, dashboarding, forecasting, A/B testing
-- 📍 Based in Kanpur, India
 - 📫 Reach me on [LinkedIn](https://www.linkedin.com/in/dixitaprajita/)
 
 ---
