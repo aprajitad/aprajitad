@@ -68,7 +68,7 @@ more about the "so what" than the chart itself.
 | Project | What it does | Stack |
 |---------|-------------|-------|
 | [🛍️ D2C Cohort & Retention Analysis](https://github.com/aprajitad/D2C-Cohort-Retention-Analysis) | Cohort & retention modelling for Indian D2C brands — retention heatmaps, LTV by cohort, channel-risk analysis, Power BI dashboard | Python · Pandas · Seaborn · Power BI |
-| [🛒 Blinkit Sales & Delivery Dashboard](https://github.com/aprajitad/Blinkit-Dashboard) | Interactive Power BI dashboard on 8,500+ delivery records — revenue trends, outlet performance, category insights | Power BI · DAX · Power Query |
+| [🛒 Blinkit Sales & Delivery Dashboard](https://github.com/aprajitad/Blinkit-Sales-Delivery-Analytics) | Interactive Power BI dashboard on 8,500+ delivery records — revenue trends, outlet performance, category insights | Power BI · DAX · Power Query |
 | [📉 Customer Analytics & Churn Prediction](https://github.com/aprajitad/Customer-Analytics-Churn-Prediction-Project) | End-to-end pipeline on customer behavior, support efficiency, and churn drivers — ML classification model | Python · SQL · Scikit-learn |
 | [📈 Retail Sales Intelligence & Forecasting](https://github.com/aprajitad/Retail-Sales-Intelligence-Forecasting-System) | Full retail analytics pipeline with AI-based revenue forecasting and 3-page Power BI dashboard | SQL · Python (Prophet) · Power BI |
 | [🔍 UPI Fraud & Healthcare Data Analysis](https://github.com/aprajitad/UPI-Fraud-Healthcare-Data-Analysis) | Detects and visualises fraudulent UPI transactions in the healthcare sector using anomaly detection | Python · SQL · Power BI |
