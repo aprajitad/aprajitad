@@ -76,16 +76,5 @@ more about the "so what" than the chart itself.
 
 ---
 
-## 🏅 Certifications
-
-- 🏆 Google Data Analytics Professional Certificate — Coursera
-- 🥇 SQL (Advanced) — HackerRank
-- ☁️ Oracle Cloud Infrastructure 2025 — AI Foundations Associate
-- ☁️ Oracle Cloud Infrastructure 2025 — Data Science Professional
-- 📊 Microsoft Excel: Beginner to Advanced — Udemy
-- 🌐 Google Cloud Arcade Facilitator — Champion (BigQuery · Looker Studio · Cloud Storage)
-
----
-
 *Open to Data Analyst and Business Analyst roles across India.
 Let's connect on [LinkedIn](https://www.linkedin.com/in/dixitaprajita/)!*
